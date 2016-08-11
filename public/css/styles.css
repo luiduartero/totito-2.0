@@ -1,0 +1,33 @@
+.boton {
+  height: 100px;
+  width: 100px;
+  float: left;
+  border-radius: 10%;
+  background-color: #D6F514;
+  transition: background-color 2s ease-out; }
+
+.vacio:hover {
+  background-color: green;
+  transition: background-color 2s ease-out; }
+
+.x {
+  background-color: #2D8DF6; }
+
+.o {
+  background-color: #C22F23; }
+
+#viewport {
+  margin-left: calc( 50% - 150px);
+  text-align: center;
+  width: 300px;
+  height: 300px;
+  position: absolute; }
+
+.titulo {
+  text-align: center; }
+
+.reset {
+  margin-left: calc(50% - 50px); }
+
+h1, h2, h3 {
+  font-family: Lucida Console; }
